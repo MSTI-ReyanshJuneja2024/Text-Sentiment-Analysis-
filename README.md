@@ -13,6 +13,12 @@ Welcome to the Text Sentiment Analysis project! This simple Python-based project
 
 Follow these steps to get the project up and running on your local machine.
 
+### How to use this software
+
+- Write any text/sentence/article in file named as mytxt.txt
+- pip install all the imported files in main python file
+- then simply run that python script
+
 ### Prerequisites
 
 - Python 3.x
